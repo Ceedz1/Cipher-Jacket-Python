@@ -47,7 +47,7 @@ in the program you will be prompted with Operation Menu:
     print("[e] Exit")
     print("-------------------")
 ```
-when choosing *[c] Encrypt File*. Remember to populate first the *upload.txt* file for encryption
+when choosing *[c] Encrypt File*. Remember to populate first the *upload.txt* file located in the folder for encryption
 
 
 ### Authors
