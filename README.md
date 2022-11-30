@@ -1,4 +1,4 @@
-# Cipher-Jacket-Python
+# Cipher-Jacket
 Cipher Jacket is a combination of Atbash and RSA encryption method. A simple monoalphabetic substitution cipher layered with a Asymmetric-key Encryption. 
 
 ## Getting Started
