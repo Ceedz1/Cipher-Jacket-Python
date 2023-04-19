@@ -1,5 +1,5 @@
 # Cipher-Jacket
-Cipher Jacket is a combination of Atbash and RSA encryption method. A simple monoalphabetic substitution cipher layered with a Asymmetric-key Encryption. 
+Cipher Jacket is a combination of Atbash and RSA encryption method. A simple monoalphabetic substitution cipher layered with an Asymmetric-key Encryption. 
 
 ## Getting Started
 To run the program, Download & Install the following prerequisites.
